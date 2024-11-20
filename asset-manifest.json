@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75649300.css",
+    "main.js": "/static/js/main.31222646.js",
+    "static/css/64.491a4ded.chunk.css": "/static/css/64.491a4ded.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/azure.png": "/static/media/azure.5a694f18b0e4f276ce48.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/ASULogo.jpg": "/static/media/ASULogo.9abef1fbc9c71d11e3fa.jpg",
+    "static/media/Comptia_CySA_2Bce.png": "/static/media/Comptia_CySA_2Bce.282dd14830b1756f37ef.png",
+    "static/media/BTLO.png": "/static/media/BTLO.f8871ceda30a1ad52ed1.png",
+    "static/media/PS.png": "/static/media/PS.e1f4cc690e542f80525b.png",
+    "static/media/SecurityPlus Logo Certified CE.png": "/static/media/SecurityPlus Logo Certified CE.dcb9fe06e17fb2ca7dc8.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/pwn_college_logo.jpg": "/static/media/pwn_college_logo.022e277ff7f56616c324.jpg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.75649300.css.map": "/static/css/main.75649300.css.map",
+    "main.31222646.js.map": "/static/js/main.31222646.js.map",
+    "64.491a4ded.chunk.css.map": "/static/css/64.491a4ded.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75649300.css",
+    "static/js/main.31222646.js"
+  ]
+}
