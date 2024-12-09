@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/ahmed86-star.github.io-v2/static/css/main.60d2dc1b.css",
-    "main.js": "/ahmed86-star.github.io-v2/static/js/main.96ef2259.js",
+    "main.css": "/ahmed86-star.github.io-v2/static/css/main.59f0c2a1.css",
+    "main.js": "/ahmed86-star.github.io-v2/static/js/main.862814fc.js",
     "static/css/487.9108c674.chunk.css": "/ahmed86-star.github.io-v2/static/css/487.9108c674.chunk.css",
-    "static/js/487.7ae187c0.chunk.js": "/ahmed86-star.github.io-v2/static/js/487.7ae187c0.chunk.js",
+    "static/js/487.ea84ee9e.chunk.js": "/ahmed86-star.github.io-v2/static/js/487.ea84ee9e.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/ahmed86-star.github.io-v2/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.567a0b93.chunk.js": "/ahmed86-star.github.io-v2/static/js/990.567a0b93.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/ahmed86-star.github.io-v2/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -18,15 +18,15 @@
     "static/media/skill.svg": "/ahmed86-star.github.io-v2/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/ahmed86-star.github.io-v2/index.html",
     "static/media/talksCardBack.svg": "/ahmed86-star.github.io-v2/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.60d2dc1b.css.map": "/ahmed86-star.github.io-v2/static/css/main.60d2dc1b.css.map",
-    "main.96ef2259.js.map": "/ahmed86-star.github.io-v2/static/js/main.96ef2259.js.map",
+    "main.59f0c2a1.css.map": "/ahmed86-star.github.io-v2/static/css/main.59f0c2a1.css.map",
+    "main.862814fc.js.map": "/ahmed86-star.github.io-v2/static/js/main.862814fc.js.map",
     "487.9108c674.chunk.css.map": "/ahmed86-star.github.io-v2/static/css/487.9108c674.chunk.css.map",
-    "487.7ae187c0.chunk.js.map": "/ahmed86-star.github.io-v2/static/js/487.7ae187c0.chunk.js.map",
+    "487.ea84ee9e.chunk.js.map": "/ahmed86-star.github.io-v2/static/js/487.ea84ee9e.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/ahmed86-star.github.io-v2/static/css/990.c6a7ee28.chunk.css.map",
     "990.567a0b93.chunk.js.map": "/ahmed86-star.github.io-v2/static/js/990.567a0b93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60d2dc1b.css",
-    "static/js/main.96ef2259.js"
+    "static/css/main.59f0c2a1.css",
+    "static/js/main.862814fc.js"
   ]
 }
